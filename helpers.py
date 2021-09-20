@@ -5,7 +5,7 @@ def gotoxy(x,y):
 
 def borrarPantalla():
     os.system("cls");
-    # os.system("clear")
+    #os.system("clear")
 
 def mensaje(msg,f,c):
     pass
